@@ -3,7 +3,7 @@ import sys
 
 
 # -- Project information -----------------------------------------------------
-project = "Session_13_14_15"
+project = "Session17and19"
 author = "David Adeakin"
 copyright = "2024, David"
 
@@ -15,7 +15,7 @@ breathe_default_project = project
 breathe_default_members = ("members", "undoc-members")
 
 breathe_projects = {
-    "Session_13_14_15": os.path.join(os.path.dirname(__file__), "../../build/docs/doxygen/xml")
+    "Session17and19": os.path.join(os.path.dirname(__file__), "../../build/docs/doxygen/xml")
 }
 
 templates_path = ["_templates"]
